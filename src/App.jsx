@@ -1,4 +1,4 @@
-import "./app.css"
+import "./App.css"
 import { useRef, useState } from "react"
 import FirstComponents from "./components/firstComponents"; 
 
